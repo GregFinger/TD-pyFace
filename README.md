@@ -1,3 +1,3 @@
 # TD-pyFace
 
-![gif][/image/screenshot.png]
+![img](/image/screenshot.png)
